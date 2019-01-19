@@ -1,5 +1,7 @@
 # FriendlyChat
 
+Changed for Android Studio 3.0, New Gradle 3.5 added
+
 This repository contains code for the FriendlyChat project in the [Firebase in a Weekend: Android by Google](https://www.udacity.com/course/firebase-in-a-weekend-by-google-android--ud0352) Udacity course.
 
 ## Overview
